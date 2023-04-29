@@ -1,14 +1,14 @@
 # face-detection-face-emotion-using-ml
 Facial Recognition and Emotion Detection
 
+TEAM 
 
-Cover:
+Ashwani Kumar Singh
+Prakhar Pratyush 
+Bishal Raj Panda
+Indroneel Pathak 
+Richa Singh 
 
-Prakhar Pratyush - 2005392
-Bishal Raj Panda - 2005652
-Indroneel Pathak - 2005658
-Richa Singh - 2005684
-Ashwani Kumar Singh - 20051237
 
 
 Abstract:
@@ -115,22 +115,6 @@ For emotion detection using KNN, the accuracy achieved can vary depending on the
 Limitations:
 One of the major limitations of facial recognition and emotion detection systems is their susceptibility to bias. These systems can produce inaccurate results based on factors such as lighting,skin color, and gender. There are also significant concerns regarding privacy and potential misuse of these technologies
 
-
-Tabular Analysis:
-
-For Facial recognition using CNN:
-
-
-
-
-
-
-For emotion detection using KNN:
-
-
-
-
-
 Conclusion and Future Work:
 
 In conclusion, the project focused on using machine learning techniques for facial recognition and emotion detection. We discussed the datasets used for training and testing, as well as the advantages of using CNNs for facial detection and KNN for emotion detection. The main findings of the project were that machine learning can be an effective approach for facial recognition and emotion detection, with high accuracy achieved on well-structured datasets.
@@ -155,12 +139,3 @@ https://ieeexplore.ieee.org/document/8777442
 "Real-time Facial Expression Recognition using Deep Learning Frameworks" by S.A. Patel, P.N. Vasani, and V.M. Patel.
 
 "Mood Detection using Facial Expressions and Electroencephalogram Signals" by S. M. Alam, A. H. M. R. Islam, and M. S. Islam.
-
-
-
-
-
-
-
-
-
